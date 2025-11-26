@@ -1,4 +1,4 @@
-# 📞 AI-Enabled Real-Time AI Sales Call Assistant
+# AI-Enabled Real-Time AI Sales Call Assistant
 
 An intelligent, real-time AI-powered sales assistant that listens to calls, transcribes conversations, performs sentiment and recommendation analysis, and provides instant AI-guided suggestions to help sales teams close deals efficiently.
 
