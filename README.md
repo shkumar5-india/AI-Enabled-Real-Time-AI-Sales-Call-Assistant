@@ -22,15 +22,6 @@ The AI-Enabled Real-Time Sales Call Assistant enhances sales team performance us
 
 ---
 
-## Project Structure
-
-AI-Enabled-Real-Time-AI-Sales-Call-Assistant/
-│── backend/ # Node.js backend + MongoDB Atlas & Python FastAPI
-│── frontend/ # Next.js + React + LiveKit client
-│── Agent/ # AI agent logic & LLM prompts
-│── README.md
----
-
 ## Technologies Used
 
 ### Frontend
