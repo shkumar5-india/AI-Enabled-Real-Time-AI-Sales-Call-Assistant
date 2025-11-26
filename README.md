@@ -4,13 +4,13 @@ An intelligent, real-time AI-powered sales assistant that listens to calls, tran
 
 ---
 
-## 🚀 Overview
+## Overview
 
 The AI-Enabled Real-Time Sales Call Assistant enhances sales team performance using AI and real-time analytics. It provides real-time transcription, AI-guided recommendations, call sentiment tracking, and automated summarization.
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
 - **Real-Time Speech-to-Text (STT)** using Deepgram API  
 - **Text-to-Speech (TTS)** for AI responses using Deepgram  
@@ -22,7 +22,7 @@ The AI-Enabled Real-Time Sales Call Assistant enhances sales team performance us
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 AI-Enabled-Real-Time-AI-Sales-Call-Assistant/
 │── backend/ # Node.js backend + MongoDB Atlas & Python FastAPI
