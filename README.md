@@ -1,4 +1,34 @@
+# 📞 AI-Enabled Real-Time AI Sales Call Assistant
 
+An intelligent, real-time AI-powered sales assistant that listens to calls, transcribes conversations, performs sentiment and recommendation analysis, and provides instant AI-guided suggestions to help sales teams close deals efficiently.
+
+---
+
+## 🚀 Overview
+
+The AI-Enabled Real-Time Sales Call Assistant enhances sales team performance using AI and real-time analytics. It provides real-time transcription, AI-guided recommendations, call sentiment tracking, and automated summarization.
+
+---
+
+## 🌟 Key Features
+
+- **Real-Time Speech-to-Text (STT)** using Deepgram API  
+- **Text-to-Speech (TTS)** for AI responses using Deepgram  
+- **AI Agent Suggestions** powered by Google Gemini LLM  
+- **Real-time Sentiment & Recommendation Analysis**  
+- **Secure User Authentication** using SHA-256 hashes stored in MongoDB Atlas  
+- **Call Transcript Storage** in MongoDB for historical analysis  
+- **Real-Time Agent Dashboard** via LiveKit  
+
+---
+
+## 🏗️ Project Structure
+
+AI-Enabled-Real-Time-AI-Sales-Call-Assistant/
+│── backend/ # Node.js backend + MongoDB Atlas & Python FastAPI
+│── frontend/ # Next.js + React + LiveKit client
+│── Agent/ # AI agent logic & LLM prompts
+│── README.md
 ---
 
 ## Technologies Used
